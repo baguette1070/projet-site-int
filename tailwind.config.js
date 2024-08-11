@@ -7,8 +7,12 @@ export default {
   theme: {
     extend: {
       colors:{
-        "bg-site": "#E4CCFF"
-      }
+        "bg-site": "#A1B3D1",
+        "animation-navbar": "#56B8D1",
+        "couleur-navbar-autour": "#D5D4E5",
+        "bg-navbar" : "#D5D4E5"
+      },
+
     },
   },
   plugins: [],
