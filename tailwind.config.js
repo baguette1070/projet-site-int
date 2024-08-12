@@ -7,12 +7,13 @@ export default {
   theme: {
     extend: {
       colors:{
-        "bg-site": "#A1B3D1",
-        "animation-navbar": "#56B8D1",
-        "couleur-navbar-autour": "#D5D4E5",
-        "bg-navbar" : "#D5D4E5"
+        "jauneLeger": "#F2F3C1",
+        "bleuFonce": "#06708E",
+        "vert" : "#01A98D",
       },
-
+      height:{
+        "taille-box-body": "662px"
+      }
     },
   },
   plugins: [],

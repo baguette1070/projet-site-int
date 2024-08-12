@@ -2,6 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-.animation-navbar:hover {
-    @apply transform scale-110 transition-transform duration-300;
-}
